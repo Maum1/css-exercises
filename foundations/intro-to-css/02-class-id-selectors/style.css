@@ -2,15 +2,14 @@
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
-.cool {
+.edit-font-size {
     font-size: 24px;
 }
-#eve {
+#two {
     color: blue;
     font-size: 36px;
 }
-#even {
+#four {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
