@@ -1,15 +1,15 @@
 .odd {
-    background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255,167,167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .edit-font-size {
     font-size: 24px;
 }
 #two {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 #four {
-    background-color: lightgreen;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
